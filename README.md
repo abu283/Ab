@@ -1,0 +1,113 @@
+# abu283.github.io
+<html>
+    <body style="background-color:rgb(197, 195, 214);">
+
+    <head>
+        <title>Car News</title>
+    
+    </head>
+    
+    <h1>Latest News on Upcoming Cars This Year</h1>
+    
+    <body>
+       
+        <h2>The Lamborghini <i>'Tormenta'</i></h2>
+
+       <p>The Lamborghini 'Tormenta' (the name not quite yet confirmed) is one of the most anticipated releases from the major car brand Lamborghini.
+        <br>It has been anticipated ever since the Lamborghini Aventador Ultimae was released in 2022. It was confirmed that this would be the last ever production model of the long reigning Aventador which was a massive success for the company with over 12,000+ units sold worldwide.
+       </p>
+        
+    <img src="Aventador Ultimae.jpg" height="320" width="520">
+    
+    <p><strong>2022 Lamborghini Aventador Ultimae LP-780-4</strong></p>
+    
+       <ul>
+        <li>Charge system: Naturally aspirated</li>
+        <li>Engine size: 6.5L</li>
+        <li>Cylinder Count: 12 Cylinders</li>
+        <li>Torque: 720 Nm/531 ft-lb</li>
+        <li>horsepower/PS: 769HP/780PS</li>
+        <li>Gearbox: ISR Automated Manual Single-Clucth Gearbox</li>
+        <li>Weight: (Dry)1600kg/(Curb)1675kg</li>
+        <li>0-60mph(s): 2.9 seconds</li>
+
+
+       </ul>
+
+
+
+    <p> The Lamborghini '<i>Tormenta</i>' as some sources online have rumoured it to be called, 
+        takes on a complete new design langauage and according to some spy shots of the new flagship Lamborghini, 
+        it takes some design cues from the <a href="https://www.lamborghini.com/en-en/models/limited-series/sian-roadster">Lamborghini Sian FKP 37</a>.
+        The <a href="https://www.lamborghini.com/en-en/models/limited-series/sian-roadster">Lamborghini Sian</a> is a hybrid motor mated with Lamborghini's iconic 6.5L V12 from the current Aventador tuned to 808bhp 
+        compared to the original Aventadors 700bhp.</p>
+
+    <img src="Sian.jpg" height="320" width="520">
+    <p><strong>2019 Lamborghini Sian FKP 37</strong>
+        
+        <ul>
+            <li>Charge system: Naturally Aspirated (MHEV Mild Hybrid Electric Vehicle)</li>
+            <li>Engine size: 6.5L</li>
+            <li>Cylinder Count: 12 Cylinders</li>
+            <li>Torque: 720 Nm/531 ft-lb</li>
+            <li>horsepower/PS: 807HP/819PS</li>
+            <li>Gearbox: ISR Automated Manual Single-Clucth Gearbox</li>
+            <li>Weight: (Curb)1600kg</li>
+            <li>0-60mph(s): 2.7 seconds</li>
+    
+    
+           </ul>
+        
+           <br><i>The Sian's design is inspired by Lamborghini's 1970s Countach sports car designed by Bertone. The Sian's profile recalls the "Gandini line" 
+            first introduced on the Countach. The car's low front with integrated carbon fiber splitter is dominated by the Y-shaped headlights, 
+            originally designed for the Terzo Millennio concept unveiled in 2017.</i></p>
+    
+            <hr>
+         <h2>What Does the New Flagship Look Like?</h2>
+
+         <p>With the new electrified engine, the Tormenta could churn out up to 1,000 horsepower. 
+
+            Spy shots taken by <a href="https://www.youtube.com/@Varryx">Varryx</a> tease the car, but Lamborghini has hidden it as best it can with camouflage wrap. </p>
+    
+            <img src="Lamborghini Spy Shot.jpg" height="320" width="520">
+            <p>The front of the car indicates Y shapes. 
+                There is speculation it will have the same Y shaped headlights as the Sian FKP 37, as can be seen in this spyshot. 
+                It also shows vents on the hood and a fin on both sides of the supercar, digging into huge intakes. On the sides, it shows the double air intakes with fins running 
+                horizontally down the middle similar to the Lamborghini Centenario. The tail lights also appear to be the same Y-shape as the Centeratio pictured below.</p>
+                
+                <img src="Centenario.jpg" height="320" width="567">
+                <p><strong>2017 Lamborghini Centenario Roadster LP 770-4</strong></p>
+
+                <ul>
+                    <li>Charge system: Naturally Aspirated</li>
+                    <li>Engine size: 6.5L</li>
+                    <li>Cylinder Count: 12 Cylinders</li>
+                    <li>Torque: 690 Nm/509 ft-lb</li>
+                    <li>horsepower/PS: 759HP/770PS</li>
+                    <li>Gearbox: ISR Automated Manual Single-Clucth Gearbox</li>
+                    <li>Weight: (Dry)1520kg/(Curb)1600kg</li>
+                    <li>0-60mph(s): 2.8 seconds</li>
+            
+            
+                   </ul>
+                
+                   <p>The new replacement Lamborghini can be seen as to sharing many similar design cues from the special edition models which
+                    have a complete new design language from the Aventador, such as the Centenario mentioned and the Sian. These special edition models show us what Lamborghini's plan is
+                    for the future and their vision for the company. Here we can see the new Lamborghini on the move, confirming that it will of course be a V12 once again from the low hum as it cruises along.</p>
+
+                    <video height="350" width="640" controls>
+                    
+                    <source src="FIRST FOOTAGE Of The NEW LAMBORGHINI HYBRID V12.mp4" type="video/mp4">
+                    
+                    </video>
+
+                    <p><strong>Footage: <a href="https://www.youtube.com/@Varryx">@Varryx</a> on Youtube</strong></p>
+                    
+                    <p>That's all that we know at the moment as Lamborghini are doing their best to keep everything
+                        under wraps and as top secret as possible, so we will just have to wait and see what the final production model will look like
+                        in the upcoming months when the car will be officially unveiled. 
+                    </p>
+                    <br>
+        </body>
+
+</html>
